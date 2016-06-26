@@ -1,6 +1,5 @@
 # RPi-OPENOCD-Stm32f405
-Raspberry Pi based bit-banging utilizing BCM2835 configuration to upload pre-compiled binaries to Stm32f405 microcontrollers.  
-Also works for most other chips thanks to OpenOCD's huge library of configs.
+Raspberry Pi based bit-banging utilizing BCM2835 configuration to upload pre-compiled binaries to Stm32f405 microcontrollers.  Also works for most other chips thanks to OpenOCD's huge library of configs.
 
 This Example, once totally finished will show the necessary steps to get OpenOCD JTAG/SWD debugger working on
 a Raspberry Pi, and then follow through with the setup and flash of an Stm32f405 chip (ARM Cortex-M4 @ 168mhz)
